@@ -8,4 +8,5 @@ mouse_model/**
 input/**
 output/**
 
-!.idea/**
+.idea
+.idea/**
