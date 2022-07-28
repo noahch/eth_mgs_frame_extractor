@@ -1,0 +1,11 @@
+grimace_box_model/**
+!grimace_box_model/readme.txt
+
+
+mouse_model/**
+!mouse_model/readme.txt
+
+input/**
+output/**
+
+!.idea/**
